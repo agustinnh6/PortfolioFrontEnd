@@ -1,0 +1,121 @@
+header{
+    background-color: rgb(36, 36, 36);
+}
+
+.fondo{
+    background-color:rgb(36, 36, 36) ;
+}
+
+.nombre{
+    color: white;
+    font-size: 25px;
+}
+.btn-secondary{
+    background-color: rgb(252, 66, 122);
+}
+.background img{
+    box-shadow: 2px 2px 20px 1px rgb(253, 251, 251);
+}
+
+.background-image{
+    height: 100%;
+    width: 100%;
+}
+
+.edit-foto{
+    position: absolute;
+    top: 10%;
+    left: 96%;
+   
+}
+.info{
+    color: white;
+    padding: 90px;
+}
+.info h1{
+    font-size: 35px;
+    margin-right: 200px;
+}
+.info h2{
+    font-size: 25px;
+ padding-right: 30%;
+}
+.info h4{
+    font-size: 25px;
+ padding-right: 50%;
+}
+  .background img{
+    display: inline;
+    width: 100%;
+    height: 620px;
+    
+  }  
+.img-responsive{
+    position: absolute;
+    max-width: 40%;
+    top: 55%;
+    left: 6%;
+}
+
+  .img-responsive img{
+ 
+width:250px ; 
+
+}
+
+
+input{
+    background-color:rgb(36, 36, 36) ;
+    color:#fff;
+}
+
+
+
+
+.info span{
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.experiencia{
+    color: white;
+    padding-left: 80px;
+    width: 95.5%;
+}
+
+.trabajos{
+    margin-top: 1%;
+}
+
+.experiencia img{
+    box-shadow: 10px 5px 5px black;
+}
+
+.editar-barra a{
+ margin-left: 50%;
+ 
+}
+
+.botones{
+    display: flex;
+    justify-content: end;
+     
+}
+
+.botones a{
+    padding: 10px;
+}
+
+.editar-1{
+    padding-top: 50px;
+}
+
+.botonmas{
+    margin-bottom: 30px;
+}
+
+.botonmas a{
+  display: flex;
+  justify-content: end;
+    
+}
