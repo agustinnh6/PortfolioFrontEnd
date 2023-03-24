@@ -57,11 +57,10 @@ import { EditAcercaDeComponent } from './components/acerca-de/edit-acerca-de.com
     FormsModule,
     NgCircleProgressModule.forRoot({}),
     
-    
   ],
-  providers: [
-    interceptorProvider
-  ],
-  bootstrap: [AppComponent]
-})
+    providers: [
+      interceptorProvider
+    ],
+    bootstrap: [AppComponent]
+  })
 export class AppModule { }
